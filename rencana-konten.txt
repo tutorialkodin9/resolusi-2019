@@ -2,8 +2,11 @@ RENCANA KONTEN YOUTUBE
 
 - Javascript
   * Javascript Framework
+    ^ Vue
   * ES6
 - Struktur Data Dasar
 - PHP
+  ^ Laravel
 - CSS
 - Bootstrap
+- Python
