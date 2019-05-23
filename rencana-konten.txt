@@ -2,10 +2,11 @@ RENCANA KONTEN YOUTUBE
 
 - Javascript
   * Javascript Framework
-    ^ Angular
+    ^ Vue
     ^ React
   * ES6
 - PHP
   ^ Laravel
 - CSS
 - Bootstrap
+- Python
