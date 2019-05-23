@@ -1,7 +1,8 @@
 RENCANA KONTEN YOUTUBE
 
 - Javascript
-- Javascript Framework
+  * Javascript Framework
+  * ES6
 - PHP
 - CSS
 - Bootstrap
