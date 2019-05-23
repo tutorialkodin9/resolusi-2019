@@ -1,0 +1,7 @@
+RENCANA KONTEN YOUTUBE
+
+- Javascript
+- Javascript Framework
+- PHP
+- CSS
+- Bootstrap
